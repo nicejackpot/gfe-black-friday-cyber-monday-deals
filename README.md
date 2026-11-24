@@ -78,6 +78,7 @@ We'd greatly appreciate if you could:
 | [FormBold](https://formbold.com/) | A complete web form solution that includes a form API, backend, and builder. Get website form submissions directly to your inbox, Slack, Sheet, Notion, Telegram and more | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
 | [UIDeck](https://uideck.com/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses | **BLFCM2026** - up to 80% off all products | Ends about Dec 2 | ✅ |
 | [MDB Bootstrap Pro/Bundle](https://mdbootstrap.com/) | MDB - Material Design for Bootstrap v5 | MDB AI Bundle $149, 30% off other offers, code **BF2026** | - | ✅ |
+| [KineticSprint Launch Video Code Kit](https://kineticsprint-studio.vercel.app/kit.html) | 5 editable HyperFrames + GSAP SaaS/DevTool/9:16 launch video templates + Python -14 LUFS stereo SFX engine | **50% OFF** Lifetime ($149 → **$79**), auto-applied | Nov 24 – Nov 30, 2026 | ✅ |
 
 ## Developer tools
 
@@ -89,6 +90,7 @@ We'd greatly appreciate if you could:
 | [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | - | ✅ |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2026** - 30% off | Ends about Dec 2 | ✅ |
 | [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
+| [BookForge CLI](https://kineticsprint-studio.vercel.app/bookforge.html) | Local-first Markdown-to-PDF commercial book typesetting engine with 6 editorial styles, auto-TOC, and layout QC gates | **50% OFF** Lifetime ($119 → **$59**), auto-applied | Nov 24 – Nov 30, 2026 | ✅ |
 
 ## Books for developers and software engineers
 
